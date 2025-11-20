@@ -1,0 +1,7 @@
+{
+  "name": "RetroSnap Instant Camera",
+  "description": "A nostalgic digital polaroid experience. Snap photos, watch them develop, and arrange them on your wall.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
